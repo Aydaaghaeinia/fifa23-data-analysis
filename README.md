@@ -9,7 +9,7 @@ This project analyzes the FIFA 23 dataset using pandas and visualizes patterns w
 - Visualizations: Histogram, bar chart, box plot, heatmap
 
 ## Dataset
-- CLEAN_FIFA23_official_data.csv
+- FIFA23_official_data.csv
 
 ## Requirements
 - pandas
